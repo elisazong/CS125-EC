@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## Welcome to Elisa Zong's Personal Webpage
 
-You can use the [editor on GitHub](https://github.com/elisazong/CS125-EC/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hello I am Elisa Yiyao Zong. I am an undergraduate student in The University of Hong Kong, and currently on exchange at University of Illinois. I major in Urban Planning, but I am interested in Computer Science and taking CS 125 now.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Know more about me in social media
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Facebook](https://www.facebook.com/elisa.zong)
 
-```markdown
-Syntax highlighted code block
+[Instagram](https://www.instagram.com/elisazong/?hl=en)
 
-# Header 1
-## Header 2
-### Header 3
+[WordExpress](https://elisazong.wordpress.com/)
 
-- Bulleted
-- List
+[Douban](https://www.douban.com/people/152768897/) It is in Chinese!
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### My photos
 
-[Link](url) and ![Image](src)
-```
+![Image](https://elisazong.files.wordpress.com/2017/12/img_0228.jpg?w=603&h=&crop=1&zoom=2)  ![Image](https://elisazong.files.wordpress.com/2017/12/img_0230.jpg?w=603&h=&crop=1&zoom=2)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![Image](https://elisazong.files.wordpress.com/2017/12/img_0229.jpg?w=1400&h=&crop=1)  ![Image](https://elisazong.files.wordpress.com/2017/12/img_0227.jpg?w=603&h=&crop=1&zoom=2)
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/elisazong/CS125-EC/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
