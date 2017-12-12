@@ -9,14 +9,12 @@ Hello I am Elisa Yiyao Zong. I am an undergraduate student in The University of 
 
 [Instagram](https://www.instagram.com/elisazong/?hl=en)
 
-[WordExpress](https://elisazong.wordpress.com/)
-
-[Douban](https://www.douban.com/people/152768897/) It is in Chinese!
+[Douban](https://www.douban.com/people/152768897/) This one is in Chinese!
 
 
 ### My photos
 
-![Image](https://elisazong.files.wordpress.com/2017/12/img_0228.jpg?w=603&h=&crop=1&zoom=2)  ![Image](https://elisazong.files.wordpress.com/2017/12/img_0230.jpg?w=603&h=&crop=1&zoom=2)
+![Image](https://elisazong.files.wordpress.com/2017/12/3cfca163-5070-445f-8253-e7cde82ce87c-20055-000018ae0882c9bb_tmp.jpg?w=1760)
 
-![Image](https://elisazong.files.wordpress.com/2017/12/img_0229.jpg?w=1400&h=&crop=1)  ![Image](https://elisazong.files.wordpress.com/2017/12/img_0227.jpg?w=603&h=&crop=1&zoom=2)
+![Image](https://elisazong.files.wordpress.com/2017/12/img_1084.jpg) 
 
